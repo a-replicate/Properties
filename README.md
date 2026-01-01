@@ -1,19 +1,24 @@
 📍 Informasi Pemilik Barang
 
-Terima kasih telah menemukan barang ini! Barang ini sangat berarti bagi saya. Jika Anda menemukannya, mohon bantuannya untuk menghubungi saya melalui kontak di bawah ini agar barang ini dapat kembali ke pemiliknya.
+Terima kasih telah menemukan barang ini! Mohon bantuannya untuk menghubungi saya melalui tombol di bawah ini:
 
-📱 Kontak yang Bisa Dihubungi
-* WhatsApp/Telepon: +62 895 3538 05030
-* Instagram (DM): @kafi.el_azzam
-* Email: rokafie.95@gmail.com
+📱 Hubungi Sekarang:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895353805030?text=Halo,%20saya%20menemukan%20barang%20Anda)
+*Klik untuk chat langsung*
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/m/kafi.el_azzam)
+*Klik untuk DM Instagram*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokafie.95@gmail.com?subject=Penemuan%20Barang%20Milik%20Anda)
+*Klik untuk kirim email*
+
+---
 
 🏫 Identitas Singkat
 * Status: Pelajar
-* Instansi/Sekolah: MAN 2 Kudus
-* Lokasi Sering Berada: Musholla Nurul Iman—MAN 2 Kudus 
+* Instansi: MAN 2 Kudus
+* Area Sering Berada: Musholla Nurul Iman — MAN 2 Kudus
 
 🎁 Pesan untuk Penemu
-Bagi Anda yang mengembalikan barang ini dalam keadaan baik, saya sangat menghargai kejujuran Anda. Saya akan memberikan imbalan kecil sebagai tanda terima kasih.
-
----
-*QR Code ini dibuat secara mandiri untuk keamanan aset pribadi.*
+Saya sangat menghargai kejujuran Anda. Jika barang ini kembali, saya telah menyiapkan tanda terima kasih sebagai bentuk apresiasi saya. 🙏
