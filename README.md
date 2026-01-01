@@ -21,4 +21,5 @@ Terima kasih telah menemukan barang ini! Mohon bantuannya untuk menghubungi saya
 * Area Sering Berada: Musholla Nurul Iman — MAN 2 Kudus
 
 🎁 Pesan untuk Penemu
+
 Saya sangat menghargai kejujuran Anda. Jika barang ini kembali, saya telah menyiapkan tanda terima kasih sebagai bentuk apresiasi saya. 🙏
